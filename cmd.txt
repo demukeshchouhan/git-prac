@@ -1,1 +1,3 @@
 track files list : git ls-files
+remove file from stage: git reset head filename
+rename and move file file: git mv file1.txt file1-rename.txt
